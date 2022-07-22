@@ -38,6 +38,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning-- <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
   
-  ## Github Stats
+  
+  # ✨ Github stats <br>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abhishek28833&theme=dark&show_icons=true)
+  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhishek28833&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
+ 
