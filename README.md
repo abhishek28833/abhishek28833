@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎓I'm currently persuing my bachelor's degree in Computer Science and engineering (Artificial Intelligence)
-- 🌱 I’m currently learning **Python,css**
+- 🎓I'm currently a bachelor's in Computer Science and engineering 
 - 📫 How to reach me **abhiverma2883@gmail.com**
 
 <div id="header" align="center">
